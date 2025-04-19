@@ -3,6 +3,24 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>shaik Rasheed</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/shaikrasheed6341</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/shaik-rasheed-4b76a9276/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>swami vivekananda institute of technology,hyderabad</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
